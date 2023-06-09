@@ -14,14 +14,8 @@
 
 # My underrated projects
 
-## 1. Ticknask
+## 1. Ticknask [Ticknask](https://ticknask.vercel.app)
 
-![Ticknask](https://ticknask.vercel.app)
+## 2. Natsapp [Natsapp](https://natsapp.web.app)
 
-## 2. Natsapp
-
-![Natsapp](https://natsapp.web.app)
-
-## 3. Ntyping
-
-![Ntyping](https://ntyping.web.app)
+## 3. Ntyping [Ntyping](https://ntyping.web.app)
