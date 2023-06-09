@@ -21,8 +21,10 @@
   <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
-   <br />
-   <br />
+
+<br />
+<br />
+
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nalaso&theme=blue-green)
 
