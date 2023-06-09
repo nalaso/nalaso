@@ -29,10 +29,10 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nalaso&theme=blue-green)
 
 
-# My underrated projects
+# My projects
 
-## 1. [Ticknask](https://ticknask.vercel.app)
+## [Ticknask](https://ticknask.vercel.app)
 
-## 2. [Natsapp](https://natsapp.web.app)
+## [Natsapp](https://natsapp.web.app)
 
-## 3. [Ntyping](https://ntyping.web.app)
+## [Ntyping](https://ntyping.web.app)
