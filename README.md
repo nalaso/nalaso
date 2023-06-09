@@ -11,7 +11,7 @@
 
 ## Tech used
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
