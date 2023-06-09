@@ -10,17 +10,17 @@
 -->
 
 ## Tech used
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/vue-js.png" alt="vue-js"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img align="left" width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
                     
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nalaso&theme=blue-green)
