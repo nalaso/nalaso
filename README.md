@@ -8,26 +8,20 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-## 1. Ticknask Stats
-
-![Your Repository's Stats](https://ticknask-v1-juaj4.ondigitalocean.app/space/stats)
-
-## 2. Most Used Languages
-
+## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nalaso&theme=blue-green)
 
-## 3. Contributors Badge
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=nalaskyofficial/ticknask-frontend)
+# My underrated projects
 
-## 4. Random Joke Generator
+## 1. Ticknask
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Ticknask](https://ticknask.vercel.app)
 
-## 5. Profile View Counter
+## 2. Natsapp
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=nalaso)
+![Natsapp](https://natsapp.web.app)
 
-### Repository View Counter - HITS
+## 3. Ntyping
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Ntyping](https://ntyping.web.app)
