@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on [Ticknask](https://ticknask.vercel.app)
 - 🌱 I’m currently learning Flutter, Zsh, React Query
