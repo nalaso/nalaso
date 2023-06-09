@@ -31,7 +31,7 @@
 
 # My projects
 
-[Ticknask](https://ticknask.vercel.app)
-[Natsapp](https://natsapp.web.app)
-[Ntyping](https://ntyping.web.app)
-[Dropit](https://space.dropit.vercel.app)
+[Ticknask](https://ticknask.vercel.app)<br />
+[Natsapp](https://natsapp.web.app)<br />
+[Ntyping](https://ntyping.web.app)<br />
+[Dropit](https://space.dropit.vercel.app)<br />
