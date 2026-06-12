@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [Ticknask](https://ticknask.vercel.app)
+- 🔭 I’m currently working on [Paddlewheel](https://paddlewheel.dev)
 - 🌱 I’m currently learning Flutter, Zsh, React Query
 - 👯 I’m looking to collaborate on projects based on react, mongo, express.
 - 🤔 I’m looking for help with startup ideas.
@@ -30,7 +30,7 @@
 
 
 # My projects
-
+[WindAI](https://windai.vercel.app/)<br />
 [Ticknask](https://ticknask.vercel.app)<br />
 [Natsapp](https://natsapp.web.app)<br />
 [Ntyping](https://ntyping.web.app)<br />
